@@ -1,0 +1,5 @@
+{
+  "name": "PharmaFriend",
+  "description": "An AI-powered pharmacist assistant that generates empathetic, patient-friendly medication counseling explanations.",
+  "requestFramePermissions": []
+}
